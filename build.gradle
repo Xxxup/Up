@@ -1,0 +1,57 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        maven {
+            url 'https://maven.aliyun.com/nexus/content/groups/public/'
+        }
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'io.freefair.gradle:lombok-plugin:6.6.1'
+    }
+}
+
+plugins {
+    id 'java'
+}
+
+sourceCompatibility=JavaVersion.VERSION_17
+targetCompatibility=JavaVersion.VERSION_17
+
+compileJava.options.encoding='UTF-8'
+compileTestJava.options.encoding='UTF-8'
+
+group 'com.baidu.corwdtest'
+version '1.0-SNAPSHOT'
+
+
+
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'io.freefair.lombok'
+
+    group = 'com.baidu.crowdtest'
+
+    sourceCompatibility=JavaVersion.VERSION_17
+    targetCompatibility=JavaVersion.VERSION_17
+
+    compileJava.options.encoding='UTF-8'
+    compileTestJava.options.encoding='UTF-8'
+
+    repositories {
+        mavenLocal()
+        maven {
+            url 'https://maven.aliyun.com/nexus/content/groups/public/'
+        }
+        mavenCentral()
+    }
+
+    dependencies {
+        compileOnly 'org.projectlombok:lombok:1.18.24'
+        implementation 'org.slf4j:slf4j-api:2.0.6'
+        implementation 'ch.qos.logback:logback-classic:1.4.5'
+        implementation 'ch.qos.logback:logback-core:1.4.5'
+
+    }
+}

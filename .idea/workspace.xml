@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8691a664-b51b-4bc2-8cf4-64ec13da04ca" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/gradle-start">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/Documents/apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/apache-maven-3.8.6/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JXTfTs6X7hpHl1qvPrmOGFopxM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facet&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3091954&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.OptionalTest.presentTest">
+    <configuration name="Java10Test.inferTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UpUp.java-start.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.crowdtest.java10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.crowdtest.java10" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.crowdtest.java10.Java10Test" />
+      <option name="METHOD_NAME" value="inferTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java11Test.httpClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UpUp.java-start.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.crowdtest.java11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.crowdtest.java11" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.crowdtest.java11.Java11Test" />
+      <option name="METHOD_NAME" value="httpClientTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java11Test.strTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UpUp.java-start.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.crowdtest.java11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.crowdtest.java11" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.crowdtest.java11.Java11Test" />
+      <option name="METHOD_NAME" value="strTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStreamTest.nullStreamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UpUp.java-start.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.crowdtest.java9.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.crowdtest.java9.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.crowdtest.java9.stream.MyStreamTest" />
+      <option name="METHOD_NAME" value="nullStreamTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.presentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IdeaProjects.UpUp.java-start.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.crowdtest.java8.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.crowdtest.java8.optional" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.crowdtest.java8.optional.OptionalTest" />
+      <option name="METHOD_NAME" value="presentTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OptionalTest.presentTest" />
+        <item itemvalue="JUnit.Java11Test.httpClientTest" />
+        <item itemvalue="JUnit.Java11Test.strTest" />
+        <item itemvalue="JUnit.Java10Test.inferTest" />
+        <item itemvalue="JUnit.MyStreamTest.nullStreamTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8691a664-b51b-4bc2-8cf4-64ec13da04ca" name="变更" comment="" />
+      <created>1672223531083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672223531083</updated>
+      <workItem from="1672223532161" duration="3316000" />
+      <workItem from="1672279290821" duration="153000" />
+      <workItem from="1672279447134" duration="1409000" />
+      <workItem from="1672281773895" duration="15000" />
+      <workItem from="1672281943176" duration="325000" />
+      <workItem from="1672282310641" duration="11673000" />
+      <workItem from="1672305425080" duration="2897000" />
+      <workItem from="1672367424469" duration="1147000" />
+      <workItem from="1672368634048" duration="49000" />
+      <workItem from="1672368704445" duration="14284000" />
+      <workItem from="1672973933915" duration="168000" />
+      <workItem from="1673504785750" duration="251000" />
+      <workItem from="1674193060595" duration="1850000" />
+      <workItem from="1675306025343" duration="15000" />
+      <workItem from="1676440931234" duration="758000" />
+      <workItem from="1676860434992" duration="63000" />
+      <workItem from="1677137865066" duration="60000" />
+      <workItem from="1677137928046" duration="1000" />
+      <workItem from="1677735142737" duration="159000" />
+      <workItem from="1678866645005" duration="3000" />
+      <workItem from="1680488254592" duration="15000" />
+      <workItem from="1680577227447" duration="49000" />
+      <workItem from="1680577280052" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

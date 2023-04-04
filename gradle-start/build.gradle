@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+group 'com.baidu.corwdtest'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenLocal()
+    maven {
+        url 'https://maven.aliyun.com/nexus/content/groups/public/'
+    }
+    mavenCentral()
+}
+
+dependencies {
+
+}
+
+//test {
+//    enabled(false) // 跳过测试
+//    useJUnitPlatform()
+//}
